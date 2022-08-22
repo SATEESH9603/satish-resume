@@ -1,0 +1,183 @@
+#title{
+    position: relative;
+    font-family: 'Crimson Text', serif;
+    background-color: crimson;
+    color: #fff;
+    font-size: xx-large;
+}
+.container-fluid{
+    padding: 7% 15%;
+    position: relative;
+}
+.head-title{
+    position: relative;
+    text-align: center;
+    color:#fff;
+    padding-bottom: 15%;
+    font-weight: 900;
+}
+.nav-item{
+    padding: 0 10px 0;
+    color: #fff;
+}
+.nav-item:hover{
+    color: #fff;
+}
+.nav-link{
+    font-size: 2rem;
+    color: #fff;
+}
+.nav-link:hover{
+    color: #fff;
+}
+.context:hover{
+    color: white;
+}
+.navbar-example{
+    background-color: blueviolet;
+    color: #fff;
+    padding: 7% 15%;
+    width: 50%;
+}
+h1{
+    font-size: xx-large;
+}
+h2{
+    font-size: xx-large;
+    padding-bottom:8% ;
+}
+p{
+    font-size: medium;
+}
+.lead{
+    font-size: large;
+}
+
+/* Profile */
+#profile{
+    padding: 7% 10% 7% 10%;
+    text-align: center;
+}
+
+.profile-logo{
+    position: relative;
+    width: 80%;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+.details{
+    position: relative;
+    text-align: left;
+}
+/* Experiences*/
+
+#experiences{
+    padding: 10% 15%;
+    background-color: #ef8172;
+    text-align: center;
+    font-family: "Montserrat-Bold";
+    font-size: x-large;
+    font-weight: 900;
+}
+.experience-img{
+    width: 30%;
+    border-radius: 100%;
+    margin: 20px;
+}
+.carousel-item{
+    padding: 7% 15%;
+}
+
+/*education*/
+#education{
+    background-color:gray;
+    padding: 10% 15%;
+    text-align: center;
+    color: #fff;
+}
+.edu{
+    padding: 0 0 5% 5%;
+}
+.edu-img{
+    width: 20%;
+    border-radius: 100%;
+    text-align: left;
+}
+
+/* certification*/
+#certifications{
+    padding: 10% 15%;
+    background-color:yellowgreen;
+    text-align: center;
+    font-family: "Montserrat-Bold";
+    font-size: x-large;
+    font-weight: 900;
+}
+.experience-img{
+    width: 30%;
+    border-radius: 100%;
+    margin: 20px;
+}
+.carousel-item{
+    padding: 7% 15%;
+}
+
+/*skills*/
+#skills{
+    padding:7% 15%;
+    font-size: 15px;
+    line-height: 1.64;
+    box-sizing: border-box;
+    margin-right: -15px;
+    margin-left: -15px;
+    -webkit-text-size-adjust: 100%;
+    -webkit-tap-highlight-color: rgba(0,0,0,0);
+    background-color: plum;
+    color:#fff;
+    text-align: center;
+}
+.ability-title{
+
+    text-align: left;
+
+}
+.ability-score{
+    color: #434242;
+    box-sizing: border-box;
+    margin-right: 5%;
+    margin-left: 5%;
+    padding-left: 15px;
+}
+.no-bullets{
+    -webkit-text-size-adjust: 100%;
+    -webkit-tap-highlight-color: rgba(0,0,0,0);
+    color: #434242;
+    font-family: 'Open Sans', sans-serif !important;
+    font-size: 15px;
+    line-height: 1.64;
+    box-sizing: border-box;
+    list-style-type: none;
+    margin: 5%;
+    padding: 5%;
+
+}
+#footer{
+    text-align: center;
+    background-color: #fff;
+}
+.footer-p{
+    font-size: x-small;
+}
+.footer-i{
+    padding: 20px 10px;
+}
+.footer-insta{
+    color:rgb(248, 120, 180);
+}
+.footer-m{
+    color: orangered;
+}
+
+
+
+
